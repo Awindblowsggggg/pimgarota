@@ -1,0 +1,375 @@
+{
+    "baterias": [
+        {
+            "nombre": "bateria 1",
+            "imagen": "./baterias/bateria1.jpg",
+            "detalles": ["Venta de Baterías para Motos Eléctricas NEW!⚡️",
+
+"Batería BLS 72VOL 35AH (ENVÍO GRATIS)",
+"Precio: 780 USD 💵 ",
+
+"Batería TOPMAQ 72 VOL 35AH (ENVÍO GRATIS)",
+"Precio: 800 USD 💵 ",
+
+"Batería BRYDERK 72VOL 45AH (ENVÍO GRATIS)",
+"Precio: 910 USD 💵 ",
+
+"Batería TOPMAQ 72VOL 55AH",
+"(ENVÍO GRATIS)",
+"Precio: 1030 USD 💵 ",
+
+"Batería 72x 75Ah",
+"(ENVÍO GRATIS)",
+"Precio: 1380 USD 💵 ",
+
+"Batería TOPMAQ BICIMOTO 48Vol 45Ah",
+"(ENVÍO GRATIS)",
+"Precio: 630 USD 💵"],
+            "precio": 0,
+            "disponible": true
+}
+    ],
+
+       "motos": [
+        {
+            "nombre": "Moto 1",
+            "imagen": "./motos/moto1.jpg",
+            "detalles":[ 
+                "Topmaq Raptor NEW!!! 🆕 ",
+"Tiene Batería 72 Vol 45Ah TOPMAQ",
+"Moto en su Huacal 🆕 "],
+            "precio": "2.450 USD",
+            "disponible": true
+        },
+        {
+            "nombre": "Moto 2",
+            "imagen": "./motos/moto2.jpg",
+            "detalles": "Marca Y, motor 250cc.",
+            "precio": 2500,
+            "disponible": true
+        }
+    ],
+    "telefonos": [
+        {
+            "nombre": "Teléfono 1",
+            "imagen": "./telefonos/telefono1.jpg",
+            "detalles": "Marca A, 128GB.",
+            "precio": 500,
+            "disponible": true
+        },
+        {
+            "nombre": "Teléfono 2",
+            "imagen": "./telefonos/telefono2.jpg",
+            "detalles": "Marca B, cámara 48MP.",
+            "precio": 600,
+            "disponible": true
+        }
+    ],
+    "laptops": [
+        {
+            "nombre": "Laptop 1",
+            "imagen": "./laptops/laptop1.jpg",
+            "detalles": [
+                "HP EliteBook",
+"* Procesador Intel Core i5-6300U (sexta generación)",
+"* Gráficos Intel HD Graphics 520",
+"* 8 GB de Ram DDR4 ( ACTUALIZABLE)",
+"* 256 SSD ( SUPER RAPIDO / actualizable )",
+"* Pantalla de 14 pulgadas, resolución Full HD.",
+"* BAT HASTA 4H / Cargador .",
+"* Audio Bang & Olufsen ( Calidad Garantizada )",
+"* Cuenta con puertos USB 3.0, USB-C, HDMI, VGA, Ethernet, una ranura para tarjetas SD y un conector de audio combinado",
+"* PQT de aplicaciones incluido /Mensajería incluida en dependencia del lugar ",
+"* De uso, impecable ",
+"* accesorios : MAUS /UltraSlim Docking Station (estación de carga original)"],
+            "precio": "330 usd ",
+            "disponible": true
+        },
+        {
+            "nombre": "Laptop 2",
+            "imagen": "./laptops/laptop2.jpg",
+            "detalles": ["HP PAVILION",
+
+"* Procesador AMD Ryzen 7 5700U ",
+"* Gráficos gráficos integrados AMD Radeon",
+"* 16 GB de Ram DDR4 ( ACTUALIZABLE)",
+"* 1 T SSD ( SUPER RAPIDO / actualizable )",
+"* Pantalla 15.6  Full HD (1920x1080)",
+"* BAT HASTA 4H / Cargador original carga rápida.",
+"* Audio Bang & Olufsen ( Calidad Garantizada )",
+"* incluye un puerto USB Type-C, dos USB Tipo-A, un HDMI 2.0, un conector de auriculares/micrófono y, en algunos modelos, un lector de tarjetas microSD.",
+"* PQT de aplicaciones incluido /Mensajería incluida en dependencia del lugar /mouse",   
+"* Garantía de 7 dias ",
+"* De uso, impecable "],
+            "precio": "500 usd",
+            "disponible": true
+        },
+        {
+            "nombre": "Laptop 3",
+            "imagen": "./laptops/laptop3.jpg",
+            "detalles": ["Lenovo Thinkpad",
+
+"* Procesador Intel Core i7 de 8ª generación (i7-8665U)",
+"* Gráficos NVIDIA Quadro P520 con 2 GB de memoria dedicada GDDR5.",
+"*  8 GB de Ram DDR4 ( ACTUALIZABLE)",
+"* 256 SSD ( SUPER RAPIDO / actualizable )",
+"* Pantalla 14 pulgas FHD anti reflejos ",
+"* BAT HASTA 5H / Cargador original carga rápida.",
+"* Dolby Audio Premium ( Calidad Garantizada )",
+"* 2 puertos USB 3.1 Gen 1, 1 puerto Thunderbolt 3, 1 puerto HDMI 1.4, un puerto combinado para auriculares y micrófono, 1 puerto Ethernet RJ-45, un lector de tarjetas microSD y un lector de tarjetas inteligentes",
+"* PQT de aplicaciones incluido /Mensajería incluida en dependencia del lugar /mouse " , 
+"* Garantía de 7 dias ",
+"* De uso, impecable "],
+            "precio": "420 usd ",
+            "disponible": true
+        },
+        {
+            "nombre": "Laptop 4",
+            "imagen": "./laptops/laptop4.jpg",
+            "detalles":[ "DELL latitude 5410(gama alta)",
+
+"* Procesador Intel Core-i5 (10th generación)",
+"* Gráficos integrados Intel UHD,",
+"*  16 GB de Ram DDR4 ( ACTUALIZABLE)",
+"* 512 SSD ( SUPER RAPIDO )",
+"* Pantalla Panel antirreflejo Full HD de 14 pulgadas ",
+"* BAT HASTA 4H / Cargador de  carga rápida.",
+"* Audio Waves MaxxAudio®, ( Calidad Garantizada )",
+"* USB Type-C, HDMI, RJ45, USB 3.2, combo de audio de 3.5 mm y ranura microSD.",
+"* PQT de aplicaciones incluido /Mensajería incluida en dependencia del lugar /mouse  " ,
+"*Garantía de 7 dias ",
+"* De uso, impecable ."],
+            "precio": "420 usd" ,
+            "disponible": true
+        },
+        {
+            "nombre": "Laptop 5",
+            "imagen": "./laptops/laptop5.jpg",
+            "detalles": ["LENOVO IdeaPad",
+
+"* Procesador Intel Celeron N4020",
+"* Gráficos Intel UHD Graphics 600 ",
+"*  4 GB de Ram DDR4",
+"* 128 SSD ( SUPER RAPIDO / actualizable )",
+"* Pantalla 14 pulgadas HD anti reflejos ",
+"* BAT HASTA +6h (11h segun fabricante) / Cargador original carga rápida.",
+"* USB 3.2 Gen 1 USB 2.0 USB-C 3.2 Gen 1 HDMI 1.4b Conector de auriculares/micrófono. Lector de tarjetas ",
+"* Mensajería incluida en dependencia del lugar /mouse  " ,
+"* Garantía de 15 dias ",
+"* Nueva (en caja) "],
+            "precio": "330 usd ",
+            "disponible": true
+        },
+        {
+            "nombre": "Laptop 6",
+            "imagen": "./laptops/laptop6.jpg",
+            "detalles": ["HP Laptop 11th",
+
+"* Procesador Intel Core-i3 11th 4.20 GHz",
+"* iGPU Intel UHD, 4GB ( bueno trabajos y multimedia ) ",
+"* 8 GB Ram actualizable ",
+"* 128 SSD ( SUPER RAPIDO ) ",
+"* Pantalla táctil 14  FHD 6 bits antireflejo.",
+"* BAT 4 HASTA 8H Cargador de 45w",
+"* USB Type-C 3.1 / HDMI/ 2 USB 3.0 /SD",
+"* PQT de APK incluido /Mensajería incluida en dependencia del lugar. ",
+"* Garantía de 7 dias ",
+"* Prácticamente nueva a ( IMPECABLE )"
+],
+            "precio": "360 usd ",
+            "disponible": true
+        },
+        {
+            "nombre": "Laptop 7",
+            "imagen": "./laptops/laptop7.jpg",
+            "detalles": ["Lenovo Ideapad 3",
+
+"* Procesador Intel Core-i3 10th 4.10 GHz",
+"* iGPU Intel UHD, 4GB ( bueno trabajos y multimedia ) ",
+"* 8 GB Ram actualizable ",
+"* 256 SSD ( SUPER RAPIDO ) actualizable ",
+"* Pantalla táctil 15.6 pulgadas  FHD 6 bits antireflejo.",
+"* Teclado numérico.",
+"* BAT 4 Cargador carga rápida.",
+"* 3 USB 3.0 / HDMI/ SD",
+"* PQT de APK incluido /Mensajería incluida en dependencia del lugar. ",
+"* Garantía de 7 dias ",
+"* De uso ( IMPECABLE )"
+],
+            "precio": "340 usd ",
+            "disponible": true
+        }
+    ],
+    "fogones": [
+        {
+            "nombre": "fogon",
+            "imagen": "./fogones/fogon1.jpg",
+            "detalles": ["Colores disponibles ",
+"negro y blanco",
+"Cocina Eléctrica 1 Hornilla ",
+"7 días de garantía",
+"- Una placa de cocción de 155 mm",
+"- Producto anti-calor",
+"- Fácil de limpiar",
+"- Alta calidad",
+"- Una luz indicadora de encendido / apagado",
+"- Varias operaciones de calor",
+"- Un termostato automático",
+"- Puede usar cualquier olla, sartén o wok que tenga en su casa.",
+"- PERFECTA ALTERNATIVA POTENCIA 1000W, protección contra sobrecalentamiento",
+"- Es beneficioso para amas de casa, mujeres trabajadoras, solteros, estudiantes fuera de casa.",
+"- Mantiene la cocina y el hogar a salvo del riesgo de incendios accidentales. ",
+"- Útil para preparar comidas rápidas"],
+           
+            "precio": 8000,
+            "disponible": true
+        },
+        {
+            "nombre": "Fogon2",
+            "imagen": "./fogones/fogon2.jpg",
+            "detalles": "Fogón inflarrojo 2000 wats ",
+            "precio": "se acepta transferencia 19 500 x cantidad o 22 mil al detalle",
+            "disponible": true
+        }
+    ],
+    "generadores": [
+        {
+            "nombre": "generador 1",
+            "imagen": "./generadores/generador1.jpg",
+            "detalles": ["Batería",
+"Tipo Litio LifePo4",
+"Método de carga",
+"Carga directa a corriente de 110V con un sistema moderno de carga rápida",
+"Opciones adicionales: Entrada para paneles solares y encendedores de autos",
+"Funciones",
+"Posee una pizarra digital que indica",
+"El consumo actual del equipo",
+"Las horas restantes de uso",
+"Compatibilidad con equipos",
+"Se puede conectar a cualquier dispositivo que funcione con 110V, como",
+"Televisores",
+"Ventiladores",
+"Luces",
+"Refrigeradores y frizers",
+"Laptops",
+"Ollas arroceras",
+"Cafeteras eléctricas",
+"Teléfonos celulares",
+"Beneficios destacados",
+"Silencioso No produce ningún tipo de sonido",
+"Ecológico Cero gases tóxicos y no requiere gasolina, lo que implica ahorro económico"],
+
+            "precio":"850 usd" ,
+            "disponible": true
+        },
+        {
+            "nombre": "Teléfono 2",
+            "imagen": "./telefonos/telefono2.jpg",
+            "detalles": "Marca B, cámara 48MP.",
+            "precio": 600,
+            "disponible": false
+        }
+    ],
+    "argollas": [
+        {
+            "nombre": "Argolla tubo medio ",
+            "imagen": "./argollas/argolla1.jpg",
+            "detalles": ["Tubo medio",
+"#1….1700",
+"#2….1800",
+"#3….2000",
+"#4….2200",
+"#5….2400",
+"#6….2600",
+"#7…..2800",
+"#8….3000"],
+            "precio":0,
+            "disponible": true
+        },
+        {
+            "nombre": "Argolla tubo Gordo",
+            "imagen": "./argollas/argolla2.jpg",
+            "detalles": ["Tubo gordo . ",
+"#2….4500",
+"#3….4800",
+"#4….3100"],
+            "precio": 0,
+            "disponible": true
+        }
+    ],
+    "neveras": [
+        {
+            "nombre": "Nevera 1 ",
+            "imagen": "./neveras/nevera1.jpg",
+            "detalles": ["Nevera Premier de 5.1 pies Precio: $113 000 "],
+            "precio":0,
+            "disponible": true
+        },
+        {
+            "nombre": "Nevera 2",
+            "imagen": "./neveras/nevera2.jpg",
+            "detalles": ["Nevera EKO de 10 pies Precio: $187 000 ✅ Garantía: 1 mes 🛵 Domicilio gratis en la ciudad de Holguín"],
+            "precio": 0,
+            "disponible": true
+        },
+        {
+            "nombre": "Nevera 3",
+            "imagen": "./neveras/nevera3.jpg",
+            "detalles": ["Nevera ROYAL 7.8 pies Precio: 420 USD ☑️ Garantía: 1 mes"],
+            "precio": 0,
+            "disponible": true
+        },
+        {
+            "nombre": "Nevera 4",
+            "imagen": "./neveras/nevera4.jpg",
+            "detalles": ["everas ROYAL de 5.5 pies Precio: $122 000 ✅ Garantía: 1 mes"],
+            "precio": 0,
+            "disponible": true
+        },
+        {
+            "nombre": "Nevera 5",
+            "imagen": "./neveras/nevera5.jpg",
+            "detalles": ["Nevera REYAN 7.5 pies Precio: 420 USD ☑️ Garantía: 1 mes"],
+            "precio": 0,
+            "disponible": true
+        }
+    ],
+    "regrigerador": [
+        {
+            "nombre": "frio 1 ",
+            "imagen": "./refrigeradores/frio1.jpg",
+            "detalles": ["Nevera Premier de 5.1 pies Precio: $108 000 "],
+            "precio":0,
+            "disponible": true
+        },
+        {
+            "nombre": "frio 2",
+            "imagen": "./refrigeradores/frio2.jpg",
+            "detalles": ["Nevera EKO de 10 pies Precio: $182 000 ✅ Garantía: 1 mes 🛵 Domicilio gratis en la ciudad de Holguín"],
+            "precio": 0,
+            "disponible": true
+        },
+        {
+            "nombre": "frio 3",
+            "imagen": "./refrigeradores/frio3.jpg",
+            "detalles": ["Nevera ROYAL 7.8 pies Precio: 410 USD ☑️ Garantía: 1 mes"],
+            "precio": 0,
+            "disponible": true
+        },
+        {
+            "nombre": "frio 4",
+            "imagen": "./refrigeradores/frio4.jpg",
+            "detalles": ["everas ROYAL de 5.5 pies Precio: $117 000 ✅ Garantía: 1 mes"],
+            "precio": 0,
+            "disponible": true
+        },
+        {
+            "nombre": "frio 5",
+            "imagen": "./refrigeradores/frio5.jpg",
+            "detalles": ["Nevera REYAN 7.5 pies Precio: 400 USD ☑️ Garantía: 1 mes"],
+            "precio": 0,
+            "disponible": true
+        }
+    ]
+
+}
